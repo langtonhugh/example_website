@@ -1,0 +1,36 @@
+[
+  {
+    "path": "posts/blog1/",
+    "title": "How to make a website",
+    "description": "A new article created using the Distill format.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2025-01-14",
+    "categories": [],
+    "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2025-01-14T11:17:21+01:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/blog2/",
+    "title": "New post",
+    "description": "A new article created using the Distill format.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2025-01-01",
+    "categories": [],
+    "contents": "\r\nAnother post.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2025-01-14T11:17:02+01:00",
+    "input_file": {}
+  }
+]

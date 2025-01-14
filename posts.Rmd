@@ -1,0 +1,6 @@
+---
+title: "My blog"
+description: |
+  Some additional details about the website
+listing: posts
+---

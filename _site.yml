@@ -1,0 +1,12 @@
+name: "."
+title: "Colin Burstead"
+description: |
+  Colin Burstead
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Posts"
+      href: posts.html
+output: distill::distill_article

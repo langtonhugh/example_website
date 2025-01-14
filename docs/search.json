@@ -1,0 +1,20 @@
+{
+  "articles": [
+    {
+      "path": "index.html",
+      "title": "Tobi Burns",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Colin Burstead\r\n          \r\n          \r\n          Home\r\n          Posts\r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Tobi Burns\r\n          \r\n          \r\n            \r\n              I work in research support.\r\n            \r\n            \r\n              I work in research support.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Google Scholar\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      University page\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Google Scholar\r\n                  \r\n                \r\n                                \r\n                  \r\n                    University page\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2025-01-14T11:26:23+01:00"
+    },
+    {
+      "path": "posts.html",
+      "title": "My blog",
+      "description": "Some additional details about the website\n",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2025-01-14T11:26:25+01:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}

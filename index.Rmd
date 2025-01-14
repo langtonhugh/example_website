@@ -1,0 +1,22 @@
+---
+title: "Tobi Burns"
+image: "my_photo.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/langtonhugh"
+  - label: Email
+    url: "mailto:s.h.langton@amsterdamumc.nl"
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=in9GpSUAAAAJ"
+  - label: University page
+    url: "https://www.amc.nl/web/home.htm"
+output:
+  postcards::jolla
+site: distill::distill_website
+---
+ 
+I work in research support.
